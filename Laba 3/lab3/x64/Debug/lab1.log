@@ -1,0 +1,24 @@
+﻿  Table.cpp
+D:\SP\Laba 3\Table.cpp(110,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(124,106): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(126,110): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(128,110): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(345,31): warning C4244: аргумент: преобразование "WPARAM" в "UINT", возможна потеря данных
+D:\SP\Laba 3\Table.cpp(350,31): warning C4244: аргумент: преобразование "WPARAM" в "UINT", возможна потеря данных
+D:\SP\Laba 3\Table.cpp(396,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(492,137): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(492,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(495,155): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(495,87): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(503,153): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(503,83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(507,157): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(507,87): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(512,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(538,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(545,84): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 3\Table.cpp(615,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  algorithms.cpp
+  utils.cpp
+  Создание кода...
+  lab1.vcxproj -> D:\SP\Laba 3\x64\Debug\lab3.exe

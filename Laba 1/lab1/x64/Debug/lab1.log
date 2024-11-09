@@ -1,0 +1,24 @@
+﻿  algorithms.cpp
+  Controls.cpp
+  globals.cpp
+  main.cpp
+D:\SP\Laba 1\main.cpp(86,14): warning C4101: tempRect: неиспользованная локальная переменная
+  Table.cpp
+D:\SP\Laba 1\Table.cpp(21,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\SP\Laba 1\Table.cpp(124,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 1\Table.cpp(173,109): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 1\Table.cpp(175,113): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 1\Table.cpp(177,113): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 1\Table.cpp(243,117): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 1\Table.cpp(243,60): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 1\Table.cpp(248,131): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 1\Table.cpp(248,74): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 1\Table.cpp(251,135): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 1\Table.cpp(251,78): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 1\Table.cpp(255,135): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 1\Table.cpp(255,78): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 1\Table.cpp(272,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 1\Table.cpp(279,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\Laba 1\Table.cpp(331,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  lab1.vcxproj -> D:\SP\Laba 1\x64\Debug\lab1.exe

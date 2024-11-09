@@ -1,0 +1,46 @@
+﻿  algorithms.cpp
+  Controls.cpp
+D:\SP\SPlab22\Controls.cpp(130,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Controls.cpp(137,36): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+D:\SP\SPlab22\Controls.cpp(137,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Controls.cpp(146,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Controls.cpp(336,27): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+D:\SP\SPlab22\Controls.cpp(340,23): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+D:\SP\SPlab22\Controls.cpp(354,47): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+D:\SP\SPlab22\Controls.cpp(355,27): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+D:\SP\SPlab22\Controls.cpp(362,40): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+D:\SP\SPlab22\Controls.cpp(366,44): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+D:\SP\SPlab22\Controls.cpp(371,48): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+  globals.cpp
+  main.cpp
+  Table.cpp
+D:\SP\SPlab22\Table.cpp(19,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\SP\SPlab22\Table.cpp(126,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(158,111): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(160,115): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(162,115): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(268,130): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(268,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(271,148): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(271,80): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(278,146): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(278,76): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(282,150): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(282,80): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(366,111): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(368,115): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(370,115): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(377,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(460,130): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(460,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(464,148): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(464,80): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(472,146): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(472,76): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(476,150): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(476,80): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(492,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(499,84): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\SP\SPlab22\Table.cpp(552,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  SPlab22.vcxproj -> D:\SP\SPlab22\x64\Debug\SPlab22.exe
